@@ -1,0 +1,234 @@
+#d1{
+    background-color: rgb(200, 205, 205);
+    font-size: 50px;
+    margin-left: 0px;
+    height: 100px;
+    
+    width: 700px;
+    padding-left: 350px;
+    border-radius: 20px;
+    position: relative;
+    top: -70px;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#bg{
+    background-image: url(./images/cover.jpg);
+}
+#first{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+    font-weight: bold;
+    position: relative;
+    top:-10px;
+
+}
+#l{
+    background-color: rgb(254, 255, 255);
+    /* border: 1px solid; */
+    height: 1200px;
+    width: 1050px;
+    margin-left: 250px;
+    padding-top: 60px;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    box-shadow: 0px 0px 10px 1px;
+    
+}
+#last{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 530px;
+    position: relative ;
+    top:-35px;
+
+}
+#firstname{
+    
+    width: 295px;
+    margin-left: 530px;
+    height: 30px;
+    position: relative ;
+    top:-25px;
+}
+#lastname{
+    
+    width: 295px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-63px;
+}
+#email{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    margin-left: 80px;
+    position: relative ;
+    top:-50px;
+}
+#mail{
+    
+    height: 30px;
+    width: 450px;
+    margin-left: 80px;
+    position: relative ;
+    top:-30px;
+}
+#pass{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+    position: relative;
+    top:-5px;
+}
+
+#pass1{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 400px;
+    margin-left: 530px;
+    position: relative ;
+    top:-33px;
+}
+#password{
+    
+    width: 295px;
+    margin-left: 530px;
+    height: 30px;
+    position: relative ;
+    top:-60px;
+}
+#password1{
+    
+    width: 295px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-25px;
+    
+}
+#gen{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-45px;
+}
+#hob{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-75px;
+}
+#radio1{
+    
+    font-size: 20px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-75px;
+}
+#radio2{
+    
+    font-size: 20px;
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-105px;
+}
+#income{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    width: 395px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-75px;
+}
+#range{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    
+    width: 395px;
+    margin-left: 530px;
+    position: relative ;
+    top:-105px;
+}
+.cont2{
+    font-weight: bold;
+    color: rgb(61, 4, 194); 
+    font-size: 25px;
+    width: 400px;
+    margin-left: 80px;
+    height: 30px;
+    position: relative ;
+    top:-55px
+}
+.cont1{
+
+    display: flex;
+    justify-content: left;
+    margin-left:80px;
+    position: relative;
+    top:-70px;
+}
+#bio{
+
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    margin-left: 80px;
+    position: relative;
+    top:-80px;
+}
+#submit{
+    font-weight: 50;
+    color: rgb(252, 252, 252);
+    width: 200px;
+    font-size: 50px;
+    margin-left: 800px;
+    position: relative ;
+    top:-3px;
+    display: flex;
+    background-color: rgb(61, 4, 194);
+    box-shadow: 0px 0px 10px 1px;
+    border-radius: 10px;
+    
+}
+
+#age{
+    font-weight: bold;
+    color: rgb(61, 4, 194);
+    font-size: 25px;
+    margin-left: 530px;
+    position: relative;
+    top: -90px;
+}
+#form{
+    
+    border: 2px;
+    border-radius: 100px;
+}
+#bg{
+    background-color: rgb(114, 201, 238);
+}
